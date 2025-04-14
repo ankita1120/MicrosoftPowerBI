@@ -1,0 +1,75 @@
+Overview
+This dashboard provides a comprehensive view of sales performance for Madhav E-commerce, focusing on Q1 in the Bihar region. It visualizes key metrics such as revenue, profit, sales quantity, product categories, payment modes, and performance by individual contributors.
+
+📌 Key Metrics (Q1 - Bihar)
+Metric	Value
+💰 Total Sales Amount	3789
+📈 Total Profit	536
+📦 Total Quantity Sold	87
+🧮 Average Order Value (AOV)	1359
+📅 Monthly Profit Trend
+January: Lowest profit
+
+February: Moderate growth
+
+March: Highest profit
+
+Indicates a steady upward trend in profitability over Q1.
+
+📂 Category-wise Quantity Distribution
+Clothing: 63%
+
+Electronics: 26%
+
+Furniture: 10%
+
+Clothing is the most sold category.
+
+💳 Payment Mode Preferences
+Cash on Delivery (COD): 46%
+
+Debit Card: 24%
+
+UPI: 20%
+
+Credit Card: 7%
+
+EMI: 3%
+
+COD remains the preferred payment method.
+
+🧑 Top Performing Salespersons (by Profit)
+Sonal – Highest profit contributor
+
+Kartikay
+
+Yogesh
+
+Pooja
+
+🏷️ Most Profitable Sub-Categories
+Accessories (Top)
+
+Saree
+
+Phones
+
+Handkerchief
+
+Shirt
+
+📍 Filter Options
+Quarter Selection: Q1, Q2, Q3, Q4
+
+State Selection: Dropdown (Currently set to Bihar)
+
+📈 Insights Summary
+Sales and profits grew consistently through Q1.
+
+Clothing dominates product sales volume.
+
+Sonal is the standout performer in the team.
+
+COD is the dominant payment mode, reflecting customer preference.
+
+
